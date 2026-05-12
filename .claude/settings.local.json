@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\rober\\\\OneDrive\\\\Desktop\\\\Desktop_Roberto\\\\1_LAVORO\\\\4_TEST\\\\3_LLM_WIKI\\\\lll_wiki\\\\wiki\\\\concepts\" | ForEach-Object { $_.Name })"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "90e351cfe7b6cabe",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc66108a2bae0b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39ad4a4d799bbd54",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63625f3c846f3989",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5a3375a3f8c0da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10927a30c68ee938",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "86531cf7135be4ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "592541ac19d010ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6c759967e1bf73e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40358eaa6f3ae017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "458b23ca377aa9a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/anthropic-messages-api.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a anthropic-messages-api"
+            }
+          },
+          {
+            "id": "e966e52a5a8770f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/anthropic-messages-api.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da anthropic-messages-api"
+            }
+          },
+          {
+            "id": "34ed17467c613b36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "57a7186931c7b49a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "c747ecbfe6a2aebc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/anthropic-messages-api.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di anthropic-messages-api"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "marp-slides:Show Slide Preview": false
+    }
+  },
+  "active": "39ad4a4d799bbd54",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "2026-05-08.md",
+    "raw/archive/Project setup.md",
+    "raw/archive/Workflows vs agents.md",
+    "raw/archive/Using multiple tools.md",
+    "raw/archive/Tool schemas.md",
+    "raw/archive/Tool functions.md",
+    "raw/archive/The web search tool.md",
+    "raw/archive/The text edit tool.md",
+    "raw/archive/The server inspector.md",
+    "raw/archive/The full RAG flow.md",
+    "raw/archive/Text embeddings.md",
+    "raw/archive/Text chunking strategies.md",
+    "raw/archive/Structure with XML tags.md",
+    "raw/archive/Sending tool results.md",
+    "raw/archive/Running the eval.md",
+    "raw/archive/Rules of prompt caching.md",
+    "raw/archive/Routing workflows.md",
+    "raw/archive/Providing examples.md",
+    "raw/archive/Prompts in the client.md",
+    "raw/archive/Prompt evaluation.md",
+    "raw/archive/Prompt engineering.md",
+    "raw/archive/Prompt caching.md",
+    "raw/archive/Prompt caching in action.md",
+    "raw/archive/Project overview.md",
+    "raw/archive/Parallelization workflows.md",
+    "raw/incoming",
+    "raw/archive",
+    "wiki/synthesis",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki/assets",
+    "wiki",
+    "raw/DD1_Handout__Overview_of_Generative_AI.pdf",
+    "raw"
+  ]
+}
